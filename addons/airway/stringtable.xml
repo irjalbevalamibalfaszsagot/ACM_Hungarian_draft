@@ -87,15 +87,19 @@
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_NPA">
             <English>Allow NPA</English>
+            <Hungarian>NPA Engedélyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_NPA_Desc">
             <English>Training level required to insert NPA</English>
+            <Hungarian>Az NPA behelyezéséhez szükséges képzettségi szint</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SGA">
             <English>Allow i-gel</English>
+            <Hungarian>i-gel Engedélyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SGA_Desc">
             <English>Training level required to insert i-gel</English>
+            <Hungarian>Az i-gel behelyezéséhez szükséges képzettségi szint</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayAdjunctsReusable">
             <English>Airway Adjuncts Reusable</English>
@@ -107,6 +111,7 @@
             // Items // -->
         <Key ID="STR_ACM_Airway_GuedelTube">
             <English>Guedel Tube</English>
+            <Hungarian>Guedel cső</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_GuedelTube_Desc">
             <English>Used to keep airway open</English>

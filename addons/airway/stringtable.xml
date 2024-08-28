@@ -3,69 +3,87 @@
     <Package name="Airway">
         <Key ID="STR_ACM_Airway_Category">
             <English>ACM: Airway</English>
+            <Hungarian>ACM: Légút</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_Category_AirwayManagement">
             <English>Airway Management</English>
+            <Hungarian>Légutak Kezelés</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_Category_AirwayAdjunct">
             <English>Airway Adjunct</English>
+            <Hungarian>Légúti segédeszköz</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Enable">
             <English>Enable Airway</English>
+            <Hungarian>Légút funkció engedélyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Enable_Desc">
             <English>Enable airway collapse/obstruction</English>
+            <Hungarian>Légúti összeesés/elzáródás funkciók engedélyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayCollapseChance">
             <English>Airway Collapse Chance Multiplier</English>
+            <Hungarian>Légúti összeesés esélyszorzója</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayObstructionChance_Blood">
             <English>Airway Obstruction (Blood) Chance Multiplier</English>
+            <Hungarian>Légúti elzáródás (vér) esélyszorzója</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayObstructionChance_Vomit">
             <English>Airway Obstruction (Vomit) Chance Multiplier</English>
+            <Hungarian>Légúti elzáródás (hányás) esélyszorzója</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_RecoveryPosition">
             <English>Establish Recovery Position Time</English>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_RecoveryPosition_Desc">
             <English>Time to establish Recovery Position</English>
+            <Hungarian>Stabil Oldalfekvés Pozicíó Felvételéhez szükséges idő</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SuctionBag">
             <English>Allow Suction Bag</English>
+            <Hungarian>Szívózsák engedélyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SuctionBag_Desc">
             <English>Training level required to use Suction Bag</English>
+            <Hungarian>A szívózsák használatához szükséges képzettségi szint</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_ACCUVAC">
             <English>Allow ACCUVAC</English>
+            <Hungarian>ACCUVAC használatának engedélyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_ACCUVAC_Desc">
             <English>Training level required to use ACCUVAC</English>
+            <Hungarian>Az ACCUVAC használatához szükséges képzettségi szint</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_OPA">
             <English>Guedel Tube Time</English>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_OPA_Desc">
             <English>Time to insert Guedel Tube</English>
+            <Hungarian>A Guedel cső behelyezéséhez szükséges idő</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_NPA">
             <English>NPA Time</English>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_NPA_Desc">
             <English>Time to insert NPA</English>
+            <Hungarian>NPA behelyezéséhez szükséges idő</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_SGA">
             <English>i-gel Time</English>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_SGA_Desc">
             <English>Time to insert i-gel</English>
+            <Hungarian>i-gel behelyezéséhez szükséges idő</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_OPA">
             <English>Allow Guedel Tube</English>
+            <Hungarian>Guedel cső engedélyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_OPA_Desc">
             <English>Training level required to insert Guedel Tube</English>
+            <Hungarian>A Guedel cső behelyezéséhez szükséges képzettségi szint</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_NPA">
             <English>Allow NPA</English>
@@ -84,7 +102,8 @@
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayAdjunctsReusable_Desc">
             <English>Airway adjuncts are kept instead of discarded on removal</English>
-        </Key><!--
+        </Key>
+        <!--
             // Items // -->
         <Key ID="STR_ACM_Airway_GuedelTube">
             <English>Guedel Tube</English>
@@ -118,7 +137,8 @@
         </Key>
         <Key ID="STR_ACM_Airway_ACCUVAC_Desc">
             <English>Device used to clear airway obstructions</English>
-        </Key><!--
+        </Key>
+        <!--
             // Actions // -->
         <Key ID="STR_ACM_Airway_CheckAirway">
             <English>Check Airway</English>
@@ -194,7 +214,8 @@
         </Key>
         <Key ID="STR_ACM_Airway_RemoveIGel_Progress">
             <English>Removing i-gel...</English>
-        </Key><!--
+        </Key>
+        <!--
             // Head tilt-chin lift Action // -->
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_Already">
             <English>Patient already has head tilted-chin lifted</English>
@@ -210,7 +231,8 @@
         </Key>
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_ActionCancelled">
             <English>Head tilt-chin lift cancelled</English>
-        </Key><!--
+        </Key>
+        <!--
             // Check Airway Action // -->
         <Key ID="STR_ACM_Airway_CheckAirway_ActionLog">
             <English>%1 checked airway: %2</English>
@@ -265,7 +287,8 @@
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Obstruction_Short">
             <English>Obstruction</English>
-        </Key><!--
+        </Key>
+        <!--
             // Suction Action // -->
         <Key ID="STR_ACM_Airway_Suction_Finished">
             <English>Suction finished</English>
@@ -275,10 +298,13 @@
         </Key>
         <Key ID="STR_ACM_Airway_Suction_AirwayHasBeenCleared">
             <English>Airway has been cleared</English>
-        </Key><!--
+            <Hungarian>A légutak ki lettek tisztítva</Hungarian>
+        </Key>
+        <!--
             // Adjunct Insertion Action // -->
         <Key ID="STR_ACM_Airway_Adjunct_Already">
             <English>Airway item already inserted</English>
+            <Hungarian>Már van behelyezve légúti eszköz</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_Adjunct_Failed">
             <English>Failed to insert %1</English>
@@ -288,45 +314,56 @@
         </Key>
         <Key ID="STR_ACM_Airway_Adjunct_ActionLog">
             <English>%1 has inserted %2</English>
-        </Key><!--
+        </Key>
+        <!--
             // Head Turning Action // -->
         <Key ID="STR_ACM_Airway_HeadTurn_Performed">
             <English>Head turning performed</English>
+            <Hungarian>A fej elforgatása végrehajtva</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_AirwayIsClear">
             <English>Airway is clear</English>
+            <Hungarian>A légutak szabadok</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_AirwayCleared">
             <English>Airway has been cleared</English>
+            <Hungarian>A légutak szabaddá váltak</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_Failed">
             <English>Head turning unsuccessful</English>
+            <Hungarian>A fej elforgatása nem sikerült</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_SuctionRequired">
             <English>Medical suction required</English>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_ActionLog">
             <English>%1 performed head turning</English>
-        </Key><!--
+        </Key>
+        <!--
             // Recovery Position Action // -->
         <Key ID="STR_ACM_Airway_RecoveryPosition_Already">
             <English>Patient already in recovery position</English>
+            <Hungarian>A beteg már stabil oldalfekvésben van</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Established">
             <English>Established recovery position</English>
+            <Hungarian>Megvalósított stabil oldalfekvés</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Established_ActionLog">
             <English>%1 established recovery position</English>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Cancelled">
             <English>Cancelled recovery position</English>
+            <Hungarian>Megszakított Stabil Oldalfekvés</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Cancelled_ActionLog">
             <English>%1 cancelled recovery position</English>
-        </Key><!--
+        </Key>
+        <!--
             // GUI // -->
         <Key ID="STR_ACM_Airway_GUI_HeadTiltedChinLifted">
             <English>Head Tilted &amp; Chin Lifted</English>
+            <Hungarian>Fej hátradöntve és áll emelve</Hungarian>
         </Key>
     </Package>
 </Project>

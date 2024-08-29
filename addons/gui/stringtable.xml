@@ -3,24 +3,31 @@
     <Package name="GUI">
         <Key ID="STR_ACM_GUI_Category">
             <English>ACM: GUI</English>
+            <Hungarian>ACM: Felhasználói felület</Hungarian>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowInactiveStatuses">
             <English>Show inactive vitals statuses</English>
+            <Hungarian>Inaktív életjelek állapotainak megjelenítése</Hungarian>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowInactiveStatuses_Desc">
             <English>Show vitals status in overview tab when inactive (display ""none"")</English>
+            <Hungarian>Jelenítse meg az életjelek állapotát az áttekintő fülön, amikor inaktív (display 'none')</Hungarian>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_OverlayBodyPart">
             <English>Show overlay for selected body part</English>
+            <Hungarian>Jelenítse meg a kiválasztott testrész átfedését</Hungarian>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowPatientSideLabels">
             <English>Show patient side labels</English>
+            <Hungarian>Jelenítse meg a beteg oldali címkéket</Hungarian>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowPatientSideLabels_Desc">
             <English>Show patient left/right side labels in medical menu</English>
+            <Hungarian>Jelenítse meg a beteg bal/jobb oldali címkéit az orvosi menüben</Hungarian>
         </Key>
         <Key ID="STR_ACM_GUI_NoExternalBleeding">
             <English>No external bleeding</English>
+            <Hungarian>Nincs külső vérzés</Hungarian>
         </Key>
     </Package>
 </Project>

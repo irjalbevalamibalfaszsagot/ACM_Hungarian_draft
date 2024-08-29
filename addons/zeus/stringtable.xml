@@ -3,66 +3,87 @@
     <Package name="Zeus">
         <Key ID="STR_ACM_Zeus_Module_UnCardiacArrest">
             <English>Un-Cardiac Arrest</English>
+            <Hungarian>Szívmegállás megszüntetése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_ForceWakeUp">
             <English>Force Wake-up</English>
+            <Hungarian>Kényszerített ébresztés</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume">
             <English>Set Blood Volume</English>
+            <Hungarian>Vérmennyiség beállítása</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume_BloodVolume">
             <English>Blood Volume</English>
+            <Hungarian>Vér mennyisége</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume_PlasmaVolume">
             <English>Plasma Volume</English>
+            <Hungarian>Plazma mennyisége</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume_SalineVolume">
             <English>Saline Volume</English>
+            <Hungarian>Sós oldat mennyisége</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest">
             <English>Inflict Cardiac Arrest</English>
+            <Hungarian>Szívmegállás okozása</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm">
             <English>Target Rhythm</English>
+            <Hungarian>Ritmus kiválasztása</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_Sinus">
             <English>Sinus</English>
+            <Hungarian>Szinusz</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_Asystole">
             <English>Asystole</English>
+            <Hungarian>Szívmegállás</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_VF">
             <English>Ventricular Fibrillation</English>
+            <Hungarian>Kamrai fibrilláció</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_PVT">
             <English>Ventricular Tachycardia</English>
+            <Hungarian>Kamrai tachikardia</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_Random">
             <English>Random</English>
+            <Hungarian>Véletlenszerű</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury">
             <English>Inflict Chest Injury</English>
+            <Hungarian>Mellkasi sérülés okozása</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_InjuryType">
             <English>Injury Type</English>
+            <Hungarian>Sérülés típusa</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_Pneumothorax">
             <English>Pneumothorax</English>
+            <Hungarian>Pneumothorax</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_TensionPneumothorax">
             <English>Tension Pneumothorax</English>
+            <Hungarian>Tension Pneumothorax</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_Hemothorax">
             <English>Hemothorax</English>
+            <Hungarian>Hemothorax</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_TensionHemothorax">
             <English>Tension Hemothorax</English>
+            <Hungarian>Tension Hemothorax</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_GivePain">
             <English>Give Pain</English>
+            <Hungarian>Fájdalom okozása</Hungarian>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_GivePain_PainAmount">
             <English>Pain Amount</English>
+            <Hungarian>Fájdalom mennyisége</Hungarian>
         </Key>
     </Package>
 </Project>

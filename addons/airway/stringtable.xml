@@ -35,18 +35,19 @@
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_RecoveryPosition">
             <English>Establish Recovery Position Time</English>
+            <Hungarian>Oldalfekvés felvételéhez szükséges idő</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_RecoveryPosition_Desc">
             <English>Time to establish Recovery Position</English>
-            <Hungarian>Stabil Oldalfekvés Pozicíó Felvételéhez szükséges idő</Hungarian>
+            <Hungarian>A Stabil Oldalfekvés Pozicíó felvételéhez szükséges idő</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SuctionBag">
             <English>Allow Suction Bag</English>
-            <Hungarian>Szívózsák engedélyezése</Hungarian>
+            <Hungarian>Váladékszívó zsák engedélyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SuctionBag_Desc">
             <English>Training level required to use Suction Bag</English>
-            <Hungarian>A szívózsák használatához szükséges képzettségi szint</Hungarian>
+            <Hungarian>A váladékszívó használatához szükséges képzettségi szint</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_ACCUVAC">
             <English>Allow ACCUVAC</English>
@@ -58,6 +59,7 @@
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_OPA">
             <English>Guedel Tube Time</English>
+            <Hungarian>A Guedel cső behelyezéséhez szükséges idő</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_OPA_Desc">
             <English>Time to insert Guedel Tube</English>
@@ -65,6 +67,7 @@
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_NPA">
             <English>NPA Time</English>
+            <Hungarian>NPA behelyezéséhez szükséges idő</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_NPA_Desc">
             <English>Time to insert NPA</English>
@@ -72,6 +75,7 @@
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_SGA">
             <English>i-gel Time</English>
+            <Hungarian>i-gel behelyezéséhez szükséges idő</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_SGA_Desc">
             <English>Time to insert i-gel</English>
@@ -103,9 +107,11 @@
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayAdjunctsReusable">
             <English>Airway Adjuncts Reusable</English>
+            <Hungarian>Újrahasználható légúti segédeszközök</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayAdjunctsReusable_Desc">
             <English>Airway adjuncts are kept instead of discarded on removal</English>
+            <Hungarian>A légúti segédeszközöket eltávolításkor megőrzik a kidobás helyett.</Hungarian>
         </Key>
         <!--
             // Items // -->
@@ -115,191 +121,251 @@
         </Key>
         <Key ID="STR_ACM_Airway_GuedelTube_Desc">
             <English>Used to keep airway open</English>
+            <Hungarian>A légutak szabadon tartására használatos</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_IGel">
             <English>i-gel</English>
+            <Hungarian>i-gel</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_IGel_Desc">
             <English>Used to secure airway for prolonged time</English>
+            <Hungarian>A légutak hosszú távú biztosítására használatos</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_NPA">
             <English>NPA</English>
+            <Hungarian>nazofaringeális légút - NPA</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_NPA_Desc">
             <English>Used to keep airway open through nasal route</English>
+            <Hungarian>A légutak nyitva tartására orrüregen keresztül.</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SuctionBag">
             <English>Emergency Disposable Suction Bag</English>
+            <Hungarian>Sürgősségi egyszer használatos szívózsák</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SuctionBag_Short">
             <English>Suction Bag</English>
+            <Hungarian>Szívózsák</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_SuctionBag_Desc">
             <English>Single-use bag used to clear airway obstructions</English>
+            <Hungarian>Egyszer használatos zsák légúti elzáródások eltávolítására</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_ACCUVAC">
             <English>ACCUVAC</English>
+            <Hungarian>ACCUVAC</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_ACCUVAC_Desc">
             <English>Device used to clear airway obstructions</English>
+            <Hungarian>Légúti elzáródások eltávolítására használt váladékszívó eszköz</Hungarian>
         </Key>
         <!--
             // Actions // -->
         <Key ID="STR_ACM_Airway_CheckAirway">
             <English>Check Airway</English>
+            <Hungarian>Légutak ellenőrzése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Progress">
             <English>Checking Airway...</English>
+            <Hungarian>Légutak ellenőrzése...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_PerformHeadTurning">
             <English>Perform Head Turning</English>
+            <Hungarian>Fej elforgatás végrehajtása</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_PerformHeadTurning_Progress">
             <English>Head Turning...</English>
+            <Hungarian>Fej elforgatása...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_PerformHeadTiltChinLift">
             <English>Perform Head Tilt-Chin Lift</English>
+            <Hungarian>Fej hátradöntés és állemelés végrehajtása</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_EstablishRecoveryPosition">
             <English>Establish Recovery Position</English>
+            <Hungarian>Stabil oldalfekvés felvétele</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_EstablishRecoveryPosition_Progress">
             <English>Establishing Recovery Position...</English>
+            <Hungarian>Stabil oldalfekvés felvétele...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CancelRecoveryPosition">
             <English>Cancel Recovery Position</English>
+            <Hungarian>Stabil oldalfekvés megszüntetése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CancelRecoveryPosition_Progress">
             <English>Cancelling Recovery Position...</English>
+            <Hungarian>Stabil oldalfekvés megszüntetése...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_UseSuctionBag">
             <English>Use Suction Bag</English>
+            <Hungarian>Szívózsák használata</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_UseSuctionBag_Progress">
             <English>Using Suction Bag...</English>
+            <Hungarian>Szívózsák használata...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_UseACCUVAC">
             <English>Use ACCUVAC</English>
+            <Hungarian>ACCUVAC használata</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_UseACCUVAC_Progress">
             <English>Using ACCUVAC...</English>
+            <Hungarian>ACCUVAC használata...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_InsertGuedelTube">
             <English>Insert Guedel Tube</English>
+            <Hungarian>Guedel cső behelyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_InsertGuedelTube_Progress">
             <English>Inserting Guedel Tube...</English>
+            <Hungarian>Guedel cső behelyezése...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_InsertNPA">
             <English>Insert NPA</English>
+            <Hungarian>NPA behelyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_InsertNPA_Progress">
             <English>Inserting NPA...</English>
+            <Hungarian>NPA behelyezése...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_InsertIGel">
             <English>Insert i-gel</English>
+            <Hungarian>i-gel behelyezése</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_InsertIGel_Progress">
             <English>Inserting i-gel...</English>
+            <Hungarian>i-gel behelyezése...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveGuedelTube">
             <English>Remove Guedel Tube</English>
+            <Hungarian>Guedel cső eltávolítása</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveGuedelTube_Progress">
             <English>Removing Guedel Tube...</English>
+            <Hungarian>Guedel cső eltávolítása...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveNPA">
             <English>Remove NPA</English>
+            <Hungarian>NPA eltávolítása</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveNPA_Progress">
             <English>Removing NPA...</English>
+            <Hungarian>NPA eltávolítása...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveIGel">
             <English>Remove i-gel</English>
+            <Hungarian>i-gel eltávolítása</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveIGel_Progress">
             <English>Removing i-gel...</English>
+            <Hungarian>i-gel eltávolítása...</Hungarian>
         </Key>
         <!--
             // Head tilt-chin lift Action // -->
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_Already">
             <English>Patient already has head tilted-chin lifted</English>
+            <Hungarian>A beteg fejét már hátradöntötték és állát emelték</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_ActionLog">
             <English>%1 started performing head tilt-chin lift</English>
+            <Hungarian>%1 elkezdte a fej hátradöntését és az áll emelését</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_ActionHint">
             <English>Performing head tilt-chin lift&lt;br/&gt;Stay close to the patient</English>
+            <Hungarian>Fej hátradöntése és áll emelése folyamatban&lt;br/&gt;Maradj közel a beteghez</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_ActionInProgress">
             <English>Performing Head Tilt-Chin Lift...</English>
+            <Hungarian>Fej hátradöntése és áll emelése folyamatban...</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_ActionCancelled">
             <English>Head tilt-chin lift cancelled</English>
+            <Hungarian>Fej hátradöntése és áll emelése törölve</Hungarian>
         </Key>
         <!--
             // Check Airway Action // -->
         <Key ID="STR_ACM_Airway_CheckAirway_ActionLog">
             <English>%1 checked airway: %2</English>
+            <Hungarian>%1 ellenőrizte a légutakat: %2</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_AirwayIsClear">
             <English>Airway is clear</English>
+            <Hungarian>A légutak szabadok</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_AirwayIsClear_Short">
             <English>Clear</English>
+            <Hungarian>Szabad</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_RecoveryPosition">
             <English>In Recovery Position</English>
+            <Hungarian>Stabil oldalfekvésben</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_RecoveryPosition_Short">
             <English>In Recovery</English>
+            <Hungarian>Oldalfekvésben</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_HeadTiltChinLift">
             <English>Head Tilted-Chin Lifted</English>
+            <Hungarian>Fej hátradöntve és áll emelve</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_HeadTiltChinLift_Short">
             <English>Head Tilted</English>
+            <Hungarian>Fej hátradöntve</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_%1_Inserted">
             <English>%1 Inserted</English>
+            <Hungarian>%1 Behelyezve</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Mild">
             <English>Airway mildly collapsed</English>
+            <Hungarian>A légutak enyhén összeestek</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Mild_Short">
             <English>Mild collapse</English>
+            <Hungarian>Enyhe összeomlás</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Moderate">
             <English>Airway moderately collapsed</English>
+            <Hungarian>A légút mérsékelten összeomlott</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Moderate_Short">
             <English>Moderate collapse</English>
+            <Hungarian>Mérsékelt összeomlás</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Severe">
             <English>Airway severely collapsed</English>
+            <Hungarian>A légút súlyosan összeomlott</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Severe_Short">
             <English>Severe collapse</English>
+            <Hungarian>Súlyos összeomlás</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Obstruction_Light">
             <English>Airway lightly obstructed</English>
+            <Hungarian>A légút enyhén elzáródott</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Obstruction_Light_Short">
             <English>Light obstruction</English>
+            <Hungarian>Könnyű elzáródás</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Obstruction">
             <English>Airway obstructed</English>
+            <Hungarian>Légút elzáródva</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Obstruction_Short">
             <English>Obstruction</English>
+            <Hungarian>Elzáródás</Hungarian>
         </Key>
         <!--
             // Suction Action // -->
         <Key ID="STR_ACM_Airway_Suction_Finished">
             <English>Suction finished</English>
+            <Hungarian>Szívás befejezve</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_Suction_AirwayIsClear">
             <English>Airway is clear</English>
+            <Hungarian>A légutak szabadok</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_Suction_AirwayHasBeenCleared">
             <English>Airway has been cleared</English>
@@ -313,12 +379,15 @@
         </Key>
         <Key ID="STR_ACM_Airway_Adjunct_Failed">
             <English>Failed to insert %1</English>
+            <Hungarian>A behelyezés sikertelen %1</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_Adjunct_%1_Inserted">
             <English>%1 inserted</English>
+            <Hungarian>%1 behelyezve</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_Adjunct_ActionLog">
             <English>%1 has inserted %2</English>
+            <Hungarian>%1 behelyezte %2</Hungarian>
         </Key>
         <!--
             // Head Turning Action // -->
@@ -340,9 +409,11 @@
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_SuctionRequired">
             <English>Medical suction required</English>
+            <Hungarian>Sebészeti váladékszívó szükséges</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_ActionLog">
             <English>%1 performed head turning</English>
+            <Hungarian>%1 végrehajtotta a fej elforgatását</Hungarian>
         </Key>
         <!--
             // Recovery Position Action // -->
@@ -356,6 +427,7 @@
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Established_ActionLog">
             <English>%1 established recovery position</English>
+            <Hungarian>Megvalósított stabil oldalfekvés</Hungarian>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Cancelled">
             <English>Cancelled recovery position</English>
@@ -363,6 +435,7 @@
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Cancelled_ActionLog">
             <English>%1 cancelled recovery position</English>
+            <Hungarian>Megszakított Stabil Oldalfekvés</Hungarian>
         </Key>
         <!--
             // GUI // -->
